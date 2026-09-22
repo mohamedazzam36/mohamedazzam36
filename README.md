@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1500&color=2196F3&center=true&vCenter=true&width=856&height=60&lines=++++++++++Flutter+%26+Dart+Developer+%F0%9F%92%99;++++++++++Building+Seamless+Apps+%F0%9F%93%B1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1500&color=2196F3&center=true&vCenter=true&width=600&height=60&lines=++++++++++Flutter+%26+Dart+Developer+%F0%9F%92%99;++++++++++Building+Seamless+Apps+%F0%9F%93%B1)](https://git.io/typing-svg)
 <!--
 **mohamedazzam36/mohamedazzam36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
