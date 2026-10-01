@@ -6,7 +6,6 @@
   </a>
 </p>
 
-- 🔭 I'm currently working on **Volt - An interactive electronics education app for kids**
 
 - 💬 Ask me about **Flutter, Dart, Cubit and MVVM**
 
