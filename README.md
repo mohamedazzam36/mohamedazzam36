@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I love turning complex problems into clean, scalable code 🧩**
 
-- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1Gx2ap3bsJoSN8m5hrNGbeXN2cejUijZb/view?usp=sharing)**
+- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1diGPLXTGOpG8jyy6rb2mtVOBWNvtz-Ru/view?usp=sharing)**
 
 <br>
 
